@@ -9,7 +9,6 @@ Execute:
 
 ```sh
   $ java FileName arg1 arg2
-
   #  arg1
   #  arg2
 ```
