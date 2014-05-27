@@ -1,12 +1,15 @@
 ## Getting started
 Compile source:
 
-  javac FileName.java
+```sh
+  $ javac FileName.java
+```
 
 Execute:
 
-  java FileName arg1 arg2
-  /*
-    arg1
-    arg2
-  */
+```sh
+  $ java FileName arg1 arg2
+
+  #  arg1
+  #  arg2
+```
